@@ -4,6 +4,11 @@
 #Description
 Golang server application
 
+#Quick guide
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aghFNLroKbA" frameborder="0" allowfullscreen></iframe>
+
+
 #Usage
 After you download binary for your distribution, start the server
 
