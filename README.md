@@ -6,8 +6,7 @@ Golang server application
 
 #Quick guide
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/aghFNLroKbA" frameborder="0" allowfullscreen></iframe>
-
+[![Quick guide](http://img.youtube.com/vi/aghFNLroKbA/0.jpg)](http://www.youtube.com/watch?v=aghFNLroKbA)
 
 #Usage
 After you download binary for your distribution, start the server
